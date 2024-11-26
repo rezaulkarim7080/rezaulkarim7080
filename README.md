@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rezaul Karim!</h1>
-<h3 align="center">🚀 I am A Front-End Developer, Creating and designing web pages is my passion. I am looking forward to being the kind of assistant you need to make your business flourish.</h3>
+<h3 align="center">🚀 As a Web3 and MERN Stack developer, I specialize in building secure decentralized applications (dApps) with Solidity, Ethereum, and modern web technologies. I look forward to being the assistant you need to make your business flourish.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezaulkarim7080" alt="rezaulkarim7080" /></a> </p>
 
