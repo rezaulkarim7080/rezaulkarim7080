@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezaulkarim7080" alt="rezaulkarim7080" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://protfolio-six-iota.vercel.app/](https://protfolio-six-iota.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rezaul.vercel.app/](https://rezaul.vercel.app/)
 
 - 📝 I regularly write articles on [https://rezaulkarimdev.blogspot.com/](https://rezaulkarimdev.blogspot.com/)
 
